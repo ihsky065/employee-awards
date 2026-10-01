@@ -11,6 +11,8 @@ function EmployeeAward ({name, years}) {
 function App () {
     return(
         <>
+        <h1>Employee Award</h1>
+        <EmployeeAward name={'Alice Tan'} years={2}/>
         </>
     )
 }

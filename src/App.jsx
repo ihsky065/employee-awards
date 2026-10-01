@@ -13,6 +13,7 @@ function App () {
         <>
         <h1>Employee Award</h1>
         <EmployeeAward name={'Alice Tan'} years={2}/>
+        <EmployeeAward name={'Ben Wong'} years={6}/>
         </>
     )
 }

@@ -15,6 +15,7 @@ function App () {
         <EmployeeAward name={'Alice Tan'} years={2}/>
         <EmployeeAward name={'Ben Wong'} years={6}/>
         <EmployeeAward name={'Chloe Lim'} years={10}/>
+        <EmployeeAward name={'Daniel Lee'} years={4}/>
         </>
     )
 }

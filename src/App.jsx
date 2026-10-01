@@ -1,7 +1,7 @@
 function EmployeeAward ({name, years}) {
     return (
         <div>
-            <h3><strong>{name}</strong></h3>
+            <h2><strong>{name}</strong></h2>
             <p>Years at Company: {years} </p>
             {years >= 5 ? 'Eligible for Long Service Award 🎉' : 'Not Eligible'}
         </div>
